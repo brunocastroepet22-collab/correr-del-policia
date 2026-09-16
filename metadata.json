@@ -1,0 +1,6 @@
+{
+  "name": "Turbo Chase 2D - Carrera y Persecución Policial",
+  "description": "Juego de carreras arcade en 2D de alto rendimiento con persecución policial, turbo nitro, tráfico, sirenas y física de conducción ultra fluida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
